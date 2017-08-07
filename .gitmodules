@@ -1,0 +1,3 @@
+[submodule "modules/yocto11830gitsm-moduleA"]
+	path = modules/yocto11830gitsm-moduleA
+	url = https://github.com/cinlyooi-intel/yocto11830gitsm-moduleA
